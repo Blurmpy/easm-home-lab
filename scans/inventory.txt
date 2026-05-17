@@ -1,0 +1,4 @@
+22/tcp   open  ssh     OpenSSH 10.3p1 Debian 1 (protocol 2.0)
+80/tcp   open  http    Apache httpd 2.4.66 ((Debian))
+8001/tcp open  http    SimpleHTTPServer 0.6 (Python 3.13.12)
+8002/tcp open  http    BaseHTTPServer 0.6 (Python 3.13.12)
